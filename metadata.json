@@ -1,0 +1,6 @@
+{
+  "name": "Ekskul LMS - Sistem Manajemen Presensi & Nilai",
+  "description": "Sistem Informasi Manajemen Presensi, Nilai, dan Honor Tutor Ekskul berbasis Google Sheets terintegrasi untuk Tutor, Siswa, dan Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
